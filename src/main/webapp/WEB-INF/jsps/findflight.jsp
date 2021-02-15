@@ -12,7 +12,6 @@
         To : <input type="text" name="arrivalCity">
         Date : <input type="text" name="dateOfDeparture">
         <input type="submit" value="Find flights">
-
     </pre>
 </form>
 </body>
